@@ -1,0 +1,76 @@
+#sidebar {
+  background: brown;  
+  width: 15%;
+  height: 100%;
+  position: fixed;
+  left: 0px;
+  display: flex;
+  flex-direction: column;
+  bottom: 0px;
+  top: 0px;
+}
+header {
+  background: darkred;
+  color: aliceblue;
+  width: 120%;
+  height: 15%;
+  position: fixed;
+  top: 0%;
+  justify-content: space-around;
+  left: 0%;
+}
+#title {
+  color: alice-blue;
+  position: fixed;
+  top: 0%;
+  left: 15%;
+  font-size: 50px;
+}
+body {
+  background: white;
+}
+#logo {
+width: 10%;
+border-radius: 50%;
+position: fixed;
+left: 2%;
+}
+#dashboard {
+  position: fixed;
+  top: 25%;
+  left: 3.5%;
+  width: 8%;
+  border-radius:80px
+
+}
+#grid_view {
+  position: fixed;
+  top: 45%;
+  left: 3.5%;
+  width: 7.5%;
+  border-radius: 50%;
+}
+#learning {
+  position: fixed;
+  top: 67%;
+  left: 3.5%;
+  width: 7.5%;
+  border-radius: 50%;
+}
+.desc {
+  color: aliceblue;
+  position: fixed;
+}
+#pv-desc {
+  top: 35%;
+  left: 4.8%;
+}
+#gd-desc {
+  top: 57%;
+  left: 5%;
+  
+}
+#l-desc {
+  top: 78.5%;
+  left: 5%;
+}
